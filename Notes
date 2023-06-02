@@ -1,0 +1,2 @@
+ptr= & a;             reference
+*ptr = ptr->          dereferrence
